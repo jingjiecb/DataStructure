@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d70531c1-70f8-4541-a563-80ab3fc22f16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/DisjointSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/out/production/DisjointSet/DisjointSet/DisjSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/out/production/DisjointSet/DisjointSet/DisjSetsH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/out/production/DisjointSet/DisjointSet/DisjSetsW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/out/production/DisjointSet/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/DisjointSet/DisjSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/DisjointSet/DisjSetsH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/DisjointSet/DisjSetsHF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/DisjointSet/DisjSetsW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/DisjointSet/DisjSetsWF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DisjointSet/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOENetwork/AOEEdge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOENetwork/AOENet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOENetwork/TestForAOE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOVNetwork/AOVEdge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOVNetwork/AOVNet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/AOVNetwork/TestForAOV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/DisjointSet/DisjSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/DisjointSet/DisjSetsH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/DisjointSet/DisjSetsHF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/DisjointSet/DisjSetsW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/DisjointSet/DisjSetsWF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Graphs/AMWGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Graphs/TestAMWGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Heaps/Heapsorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Heaps/MaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Heaps/MinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/LALGraph/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/LALGraph/LALGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/LALGraph/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/LALGraph/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/META-INF/Graph.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Queue/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/out/production/Graph/Queue/QueueLi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOENetwork/AOEEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOENetwork/AOENet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOENetwork/TestForAOE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOVNetwork/AOVEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOVNetwork/AOVNet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/AOVNetwork/TestForAOV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DisjointSet/DisjSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DisjointSet/DisjSetsH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DisjointSet/DisjSetsHF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DisjointSet/DisjSetsW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DisjointSet/DisjSetsWF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Graphs/AMWGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Graphs/TestAMWGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Heaps/Heapsorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Heaps/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Heaps/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/LALGraph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/LALGraph/LALGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/LALGraph/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/LALGraph/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/Queue/QueueLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Hashing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/LinearProbingHashTable/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/QuadraticProbingHashtable/HashEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/QuadraticProbingHashtable/Hashable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/QuadraticProbingHashtable/QPHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/QuadraticProbingHashtable/one.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/out/production/Hashing/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/LinearProbingHashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/QuadraticProbingHashtable/HashEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/QuadraticProbingHashtable/Hashable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/QuadraticProbingHashtable/QPHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/QuadraticProbingHashtable/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SeparateChainingHashTable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SeparateChainingHashTable/Hashablee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SeparateChainingHashTable/SeparateChainingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SingleLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SingleLinkedList/LinkedListItr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SingleLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/SingleLinkedList/Test_SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/CircularLinkedList/CircleItr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/CircularLinkedList/CircleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/CircularLinkedList/CircleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/CircularLinkedList/Josephus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/CircularLinkedList/Test_CircleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/DoubleLinkedList/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/DoubleLinkedList/DoubleLinkedListItr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/DoubleLinkedList/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/DoubleLinkedList/Test_DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/SingleLinkedList/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/SingleLinkedList/LinkedListItr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/SingleLinkedList/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/SingleLinkedList/Test_SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/out/production/Linkedlist/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/CircularLinkedList/CircleItr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/CircularLinkedList/CircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/CircularLinkedList/CircleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/CircularLinkedList/Josephus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/CircularLinkedList/Test_CircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/DoubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/DoubleLinkedList/DoubleLinkedListItr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/DoubleLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/DoubleLinkedList/Test_DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/SingleLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/SingleLinkedList/LinkedListItr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/SingleLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/SingleLinkedList/Test_SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/PriorityQueues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/out/production/PriorityQueues/Heaps/Heapsorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/out/production/PriorityQueues/Heaps/MaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/out/production/PriorityQueues/Heaps/MinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/out/production/PriorityQueues/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/src/Heaps/Heapsorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/src/Heaps/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/src/Heaps/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PriorityQueues/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/META-INF/Queue.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/Overflow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/QueueAr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/QueueLi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/Overflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/QueueAr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/QueueLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/Elements/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/Elements/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/SortingStrategy/SortingStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/out/production/Sorting/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Elements/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Elements/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/SortingStrategy/SortingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Calculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Calculator/Transformer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Calculator/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/META-INF/Stack.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/Overflow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/StackAr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/StackLi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Stack/Underflow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/out/production/Stack/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Calculator/Transformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Calculator/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Stack/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Stack/StackAr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Stack/StackLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Stack/Underflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/AVLTree/AVLNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/AVLTree/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/BinarySearchTree/BinaryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/BinarySearchTree/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Huffman/HuffmanAlphbet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Huffman/HuffmanNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Huffman/MinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Huffman/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/LinkedBinaryTree/BinaryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/LinkedBinaryTree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/META-INF/Tree.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Queue/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Queue/QueueLi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Stack/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Stack/StackLi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/ThreadTree/ThNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/ThreadTree/ThTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/AVLTree/AVLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/AVLTree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/BinarySearchTree/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Huffman/HuffmanAlphbet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Huffman/HuffmanNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Huffman/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Huffman/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/LinkedBinaryTree/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/LinkedBinaryTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Queue/QueueLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Stack/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Stack/StackLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/ThreadTree/ThNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/ThreadTree/ThTree.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="396" />
+    <option name="y" value="115" />
+    <option name="width" value="930" />
+    <option name="height" value="1065" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70531c1-70f8-4541-a563-80ab3fc22f16" name="Default Changelist" comment="" />
+      <created>1583571267564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583571267564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

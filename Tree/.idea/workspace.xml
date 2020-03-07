@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="613ba877-102d-4c78-8e59-3d80b0aa160c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3173">
+              <caret line="318" column="51" selection-start-line="318" selection-start-column="51" selection-end-line="318" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="method#preOrder#0;class#BinaryTree#0" />
+                <element signature="method#inOrder#0;class#BinaryTree#0" />
+                <element signature="method#postOrder#0;class#BinaryTree#0" />
+                <element signature="method#preOrder#1;class#BinaryTree#0" />
+                <element signature="method#inOrder#1;class#BinaryTree#0" />
+                <element signature="method#postOrder#1;class#BinaryTree#0" />
+                <element signature="method#LOprint#0;class#BinaryTree#0" />
+                <element signature="method#POprint#0;class#BinaryTree#0" />
+                <element signature="method#IOprint#0;class#BinaryTree#0" />
+                <element signature="method#PostPrint#0;class#BinaryTree#0" />
+                <element signature="method#makeTree#0;class#BinaryTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/BinaryNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#962#963#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThreadTree/ThNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThreadTree/ThTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2166">
+              <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#copyTree#0;class#ThTree#0" />
+                <element signature="method#copyNode#0;class#ThTree#0" />
+                <element signature="method#createIOTTree#0;class#ThTree#0" />
+                <element signature="method#IO#0;class#ThTree#0" />
+                <element signature="method#preOrder#0;class#ThTree#0" />
+                <element signature="method#inOrder#0;class#ThTree#0" />
+                <element signature="method#postOrder#0;class#ThTree#0" />
+                <element signature="method#preOrder#1;class#ThTree#0" />
+                <element signature="method#inOrder#1;class#ThTree#0" />
+                <element signature="method#postOrder#1;class#ThTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AVLTree/AVLTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#findMin#1;class#AVLTree#0" />
+                <element signature="method#findMax#1;class#AVLTree#0" />
+                <element signature="method#insert#0;class#AVLTree#0" />
+                <element signature="method#remove#0;class#AVLTree#0" />
+                <element signature="method#rotateWithLeftChild#0;class#AVLTree#0" />
+                <element signature="method#doubleWithLeftChild#0;class#AVLTree#0" />
+                <element signature="method#rotateWithRightChild#0;class#AVLTree#0" />
+                <element signature="method#doubleWithRightChild#0;class#AVLTree#0" />
+                <element signature="method#LOprint#0;class#AVLTree#0" />
+                <element signature="method#POprint#0;class#AVLTree#0" />
+                <element signature="method#IOprint#0;class#AVLTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AVLTree/AVLNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BinaryNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#findMin#1;class#BinarySearchTree#0" />
+                <element signature="method#findMax#1;class#BinarySearchTree#0" />
+                <element signature="method#insert#0;class#BinarySearchTree#0" />
+                <element signature="e#2694#2695#0" expanded="true" />
+                <element signature="e#2729#2730#0" expanded="true" />
+                <element signature="method#LOprint#0;class#BinarySearchTree#0" />
+                <element signature="method#POprint#0;class#BinarySearchTree#0" />
+                <element signature="method#IOprint#0;class#BinarySearchTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Huffman/HuffmanNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="method#HuffmanNode#0;class#HuffmanNode#0" />
+                <element signature="method#HuffmanNode#1;class#HuffmanNode#0" />
+                <element signature="method#tranCode#0;class#HuffmanNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>before</find>
+      <find>BinaryNode</find>
+      <find>leave</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\2019-2020学年第一学期\20191课程资料\数据结构与计算\Implementation\Tree\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LinkedBinaryTree/TreeItr.java" />
+        <option value="$PROJECT_DIR$/src/Queue/Node.java" />
+        <option value="$PROJECT_DIR$/src/Queue/QueueLi.java" />
+        <option value="$PROJECT_DIR$/src/Stack/StackLi.java" />
+        <option value="$PROJECT_DIR$/src/ChSiTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/ChSiTree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/LinkedBinaryTree/BinaryNode.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTree/ThNode.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/Node.java" />
+        <option value="$PROJECT_DIR$/src/LinkedBinaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BinaryNode.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/Token.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/HuffmanTree.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/MinHeap.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/HuffmanNode.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/HuffmanAlphbet.java" />
+        <option value="$PROJECT_DIR$/src/Huffman/Test.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTree/ThTree.java" />
+        <option value="$PROJECT_DIR$/src/AVLTree/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/AVLTree/AVLNode.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BinarySearchTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="401" />
+    <option name="y" value="180" />
+    <option name="width" value="930" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AVLTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearchTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huffman.Test" />
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Huffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613ba877-102d-4c78-8e59-3d80b0aa160c" name="Default Changelist" comment="" />
+      <created>1576763469429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576763469429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="-7" width="1472" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17892504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Huffman/HuffmanAlphbet.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/BianryNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Queue/QueueLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/TreeItr.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stack/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTree/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stack/StackLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/Huffman/Token.java" />
+    <entry file="file://$PROJECT_DIR$/src/Huffman/HuffmanTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/ChSiTree/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/ChSiTree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Huffman/MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="method#insert#0;class#MinHeap#0" />
+            <element signature="method#deleteMin#0;class#MinHeap#0" />
+            <element signature="method#percolateDown#0;class#MinHeap#0" />
+            <element signature="method#initialize#0;class#MinHeap#0" />
+            <element signature="method#initializeS#0;class#MinHeap#0" />
+            <element signature="method#printnMin#0;class#MinHeap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huffman/HuffmanAlphbet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="method#makeEmpty#0;class#HuffmanAlphbet#0" />
+            <element signature="method#getletters#0;class#HuffmanAlphbet#0" />
+            <element signature="method#preOrderCode#0;class#HuffmanAlphbet#0" />
+            <element signature="method#preOrderPrint#0;class#HuffmanAlphbet#0" />
+            <element signature="method#decode#0;class#HuffmanAlphbet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huffman/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3173">
+          <caret line="318" column="51" selection-start-line="318" selection-start-column="51" selection-end-line="318" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="method#preOrder#0;class#BinaryTree#0" />
+            <element signature="method#inOrder#0;class#BinaryTree#0" />
+            <element signature="method#postOrder#0;class#BinaryTree#0" />
+            <element signature="method#preOrder#1;class#BinaryTree#0" />
+            <element signature="method#inOrder#1;class#BinaryTree#0" />
+            <element signature="method#postOrder#1;class#BinaryTree#0" />
+            <element signature="method#LOprint#0;class#BinaryTree#0" />
+            <element signature="method#POprint#0;class#BinaryTree#0" />
+            <element signature="method#IOprint#0;class#BinaryTree#0" />
+            <element signature="method#PostPrint#0;class#BinaryTree#0" />
+            <element signature="method#makeTree#0;class#BinaryTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedBinaryTree/BinaryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTree/ThNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTree/ThTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
+          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#copyTree#0;class#ThTree#0" />
+            <element signature="method#copyNode#0;class#ThTree#0" />
+            <element signature="method#createIOTTree#0;class#ThTree#0" />
+            <element signature="method#IO#0;class#ThTree#0" />
+            <element signature="method#preOrder#0;class#ThTree#0" />
+            <element signature="method#inOrder#0;class#ThTree#0" />
+            <element signature="method#postOrder#0;class#ThTree#0" />
+            <element signature="method#preOrder#1;class#ThTree#0" />
+            <element signature="method#inOrder#1;class#ThTree#0" />
+            <element signature="method#postOrder#1;class#ThTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVLTree/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findMin#1;class#AVLTree#0" />
+            <element signature="method#findMax#1;class#AVLTree#0" />
+            <element signature="method#insert#0;class#AVLTree#0" />
+            <element signature="method#remove#0;class#AVLTree#0" />
+            <element signature="method#rotateWithLeftChild#0;class#AVLTree#0" />
+            <element signature="method#doubleWithLeftChild#0;class#AVLTree#0" />
+            <element signature="method#rotateWithRightChild#0;class#AVLTree#0" />
+            <element signature="method#doubleWithRightChild#0;class#AVLTree#0" />
+            <element signature="method#LOprint#0;class#AVLTree#0" />
+            <element signature="method#POprint#0;class#AVLTree#0" />
+            <element signature="method#IOprint#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVLTree/AVLNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BinaryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huffman/HuffmanNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="method#HuffmanNode#0;class#HuffmanNode#0" />
+            <element signature="method#HuffmanNode#1;class#HuffmanNode#0" />
+            <element signature="method#tranCode#0;class#HuffmanNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findMin#1;class#BinarySearchTree#0" />
+            <element signature="method#findMax#1;class#BinarySearchTree#0" />
+            <element signature="method#insert#0;class#BinarySearchTree#0" />
+            <element signature="e#2694#2695#0" expanded="true" />
+            <element signature="e#2729#2730#0" expanded="true" />
+            <element signature="method#LOprint#0;class#BinarySearchTree#0" />
+            <element signature="method#POprint#0;class#BinarySearchTree#0" />
+            <element signature="method#IOprint#0;class#BinarySearchTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
